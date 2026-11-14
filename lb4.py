@@ -101,4 +101,4 @@ open_high = [tid for tid, st, priot in zip(ticket_ids,statuses,priorities) if st
 print("Открытые заявки высокого приоритета:", open_high)
 
 
-
+print("lj,fdbk yjde. aeyrwb.")
