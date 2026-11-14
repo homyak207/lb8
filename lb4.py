@@ -102,3 +102,5 @@ print("Открытые заявки высокого приоритета:", op
 
 
 print("lj,fdbk yjde. aeyrwb.")
+def f():
+    return True
